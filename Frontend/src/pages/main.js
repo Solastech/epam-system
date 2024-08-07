@@ -89,8 +89,10 @@ const Main = () => {
                 </div>
             </section>
             <section className="services-section" id="services">
+            <h1>Services</h1>
                 <div className="services-container">
                     <div className="service-card">
+
                         <img src="Service1.jpg" alt="Service 1" />
                     
                         <p class="circular-text">Exhibitions</p>
